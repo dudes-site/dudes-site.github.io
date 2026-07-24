@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+        <meta name="DC.creator" content="leftistviennesedudes@proton.me">
+        <meta name="DC.created" content="2026-07-24">
+        <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" >
+    	<link rel="stylesheet" href="static/font/stylesheet.css" type="text/css" charset="utf-8"/>
+        <link rel="stylesheet" type="text/css" href="static/dudes_1col.css" />
+        <link rel="icon" type="image/png" href="static/pics/favicon.png">
+    	<style type="text/css">
+        		body {
+			font-family: 'special_eliteregular';
+        		}
+        		p {
+			font-family: 'special_eliteregular';
+        		}
+        </style>
+                <title>Leftist Viennese Dude</title>
+    </head>
+	<body>
+		<div id="col2" class="container">
+			<div id="header">
+    		</div>
+			<div class="name">
+ 				<p class="size60" id="title">Leftist Viennese Dude</p>
+ 			</div>
+			<div id="content">
+				<div id="maincol">
+					<img id="img" style="width: 100%; border: none;"></img>  
+					<div class="atopic">
+						<p class="apara">The <a href="https://LeftistVienneseDudes.info">Leftist Viennese Dudes</a> information is provided for your personal enjoyment, no strings attached. 
+However, I would like to emphasize that I'm not liable for unpleasant things that may happen while you're urban strolling, including being run-over by a scooter, harassed by a magazine seller, ignored by a waiter, suffocated by a cigarette mob, or stink-eyed by a local.
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+    <!-- the URL param image moet id=img hebben , dat kan je dan in om het even wat HTML verwerken 
+      E.g. URL: dudes.html?datetime=xxx&file=39.jpeg 
+    -->
+    <!-- onderaan de pagina -->
+    <script>
+      const p = new URLSearchParams(location.search);
+      document.getElementById("img").src = "dudes" + "/" + p.get("file");
+      document.getElementById("title").textContent = "Leftist Viennese Dude " + p.get("datetime")
+    </script>
+	</body>
+</html>

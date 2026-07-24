@@ -1,0 +1,1521 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="metadata_all_reorg_geo" id="metadata_all_reorg_geo">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="file" type="string"></SimpleField>
+	<SimpleField name="picture" type="string"></SimpleField>
+</Schema>
+<Folder><name>metadata_all_reorg_geo</name>
+  <Placemark>
+	<name>Dude 001</name>
+	<description>Picture https://hvdsomp.info/fellas/000001/20.jpeg of Dude 001 taken on 2021-07-24T16:11:57 at 48.204319,16.350478</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/07/24 16:11:57</SimpleData>
+		<SimpleData name="file">20.jpeg</SimpleData>
+		<SimpleData name="picture">C995584E-86A0-4FAA-90FC-D81F8382F62A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.350478,48.204319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 001</name>
+	<description>Picture https://hvdsomp.info/fellas/000001/21.jpeg of Dude 001 taken on 2021-07-24T16:12:00 at 48.203697,16.354847</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/07/24 16:12:00</SimpleData>
+		<SimpleData name="file">21.jpeg</SimpleData>
+		<SimpleData name="picture">B80CD41B-7BC9-4E6B-86DB-AD399C478405</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.354847,48.203697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 002</name>
+	<description>Picture https://hvdsomp.info/fellas/000002/22.jpeg of Dude 002 taken on 2021-07-24T16:41:10 at 48.202564,16.361578</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/07/24 16:41:10</SimpleData>
+		<SimpleData name="file">22.jpeg</SimpleData>
+		<SimpleData name="picture">43A4602B-7E29-4327-A7AB-7953C287A0C6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.361578,48.202564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 002</name>
+	<description>Picture https://hvdsomp.info/fellas/000002/79.jpeg of Dude 002 taken on 2021-12-26T14:11:01 at 48.201469,16.361636</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/12/26 14:11:01</SimpleData>
+		<SimpleData name="file">79.jpeg</SimpleData>
+		<SimpleData name="picture">9EA7C7ED-1EDA-4EF7-BC5F-A4CCEFC49242</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.361636,48.201469</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 002</name>
+	<description>Picture https://hvdsomp.info/fellas/000002/78.jpeg of Dude 002 taken on 2021-12-26T14:10:59 at 48.201469,16.361636</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/12/26 14:10:59</SimpleData>
+		<SimpleData name="file">78.jpeg</SimpleData>
+		<SimpleData name="picture">0711486F-13BC-44C5-8AF3-F210E40202AF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.361636,48.201469</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 003</name>
+	<description>Picture https://hvdsomp.info/fellas/000003/79.jpeg of Dude 003 taken on 2021-12-26T14:11:01 at 48.201469,16.361636</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/12/26 14:11:01</SimpleData>
+		<SimpleData name="file">79.jpeg</SimpleData>
+		<SimpleData name="picture">9EA7C7ED-1EDA-4EF7-BC5F-A4CCEFC49242</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.361636,48.201469</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 003</name>
+	<description>Picture https://hvdsomp.info/fellas/000003/78.jpeg of Dude 003 taken on 2021-12-26T14:10:59 at 48.201469,16.361636</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/12/26 14:10:59</SimpleData>
+		<SimpleData name="file">78.jpeg</SimpleData>
+		<SimpleData name="picture">0711486F-13BC-44C5-8AF3-F210E40202AF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.361636,48.201469</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 003</name>
+	<description>Picture https://hvdsomp.info/fellas/000003/23.jpeg of Dude 003 taken on 2021-07-24T16:41:10 at 48.202564,16.361578</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/07/24 16:41:10</SimpleData>
+		<SimpleData name="file">23.jpeg</SimpleData>
+		<SimpleData name="picture">43A4602B-7E29-4327-A7AB-7953C287A0C6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.361578,48.202564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 004</name>
+	<description>Picture https://hvdsomp.info/fellas/000004/24.jpeg of Dude 004 taken on 2021-08-25T13:33:34 at 48.195131,16.355947</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/08/25 13:33:34</SimpleData>
+		<SimpleData name="file">24.jpeg</SimpleData>
+		<SimpleData name="picture">31790690-6853-407B-B710-D241BE5801A3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.355947,48.195131</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 004</name>
+	<description>Picture https://hvdsomp.info/fellas/000004/25.jpeg of Dude 004 taken on 2021-08-25T13:33:41 at 48.195239,16.355847</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/08/25 13:33:41</SimpleData>
+		<SimpleData name="file">25.jpeg</SimpleData>
+		<SimpleData name="picture">A2F57B6D-10C2-4D36-A713-1B1A7A9F0AB7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.355847,48.195239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 005</name>
+	<description>Picture https://hvdsomp.info/fellas/000005/26.jpeg of Dude 005 taken on 2021-08-28T13:41:40 at 48.194786,16.349072</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/08/28 13:41:40</SimpleData>
+		<SimpleData name="file">26.jpeg</SimpleData>
+		<SimpleData name="picture">AF7BF5C9-6C4B-4F81-A3CD-DB867008D26D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.349072,48.194786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 005</name>
+	<description>Picture https://hvdsomp.info/fellas/000005/27.jpeg of Dude 005 taken on 2021-08-28T13:41:51 at 48.194814,16.349108</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/08/28 13:41:51</SimpleData>
+		<SimpleData name="file">27.jpeg</SimpleData>
+		<SimpleData name="picture">1724FE2E-0C90-4442-8475-C50A950BEFAD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.349108,48.194814</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 005</name>
+	<description>Picture https://hvdsomp.info/fellas/000005/28.jpeg of Dude 005 taken on 2021-08-28T13:41:59 at 48.194828,16.349128</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/08/28 13:41:59</SimpleData>
+		<SimpleData name="file">28.jpeg</SimpleData>
+		<SimpleData name="picture">65E5EE16-C25A-4CE7-9AE6-D97F89C0B1E7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.349128,48.194828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 006</name>
+	<description>Picture https://hvdsomp.info/fellas/000006/30.jpeg of Dude 006 taken on 2021-08-28T13:44:08 at 48.195206,16.348478</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/08/28 13:44:08</SimpleData>
+		<SimpleData name="file">30.jpeg</SimpleData>
+		<SimpleData name="picture">7CE5206A-E842-4AF8-A5B9-8825968461DB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.348478,48.195206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 006</name>
+	<description>Picture https://hvdsomp.info/fellas/000006/40.jpeg of Dude 006 taken on 2021-08-30T15:58:31 at 48.195264,16.348628</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/08/30 15:58:31</SimpleData>
+		<SimpleData name="file">40.jpeg</SimpleData>
+		<SimpleData name="picture">54A78490-B516-43E3-AAD4-9E0D34F2684C</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.348628,48.195264</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 006</name>
+	<description>Picture https://hvdsomp.info/fellas/000006/38.jpeg of Dude 006 taken on 2021-08-30T15:58:16 at 48.195258,16.348581</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/08/30 15:58:16</SimpleData>
+		<SimpleData name="file">38.jpeg</SimpleData>
+		<SimpleData name="picture">4B73F4F5-3092-4C68-BF65-61EDADFA1A35</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.348581,48.195258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 006</name>
+	<description>Picture https://hvdsomp.info/fellas/000006/39.jpeg of Dude 006 taken on 2021-08-30T15:58:21 at 48.195275,16.348622</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/08/30 15:58:21</SimpleData>
+		<SimpleData name="file">39.jpeg</SimpleData>
+		<SimpleData name="picture">87ADEDFC-552E-4C44-839A-C8A25A55FD26</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.348622,48.195275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 006</name>
+	<description>Picture https://hvdsomp.info/fellas/000006/29.jpeg of Dude 006 taken on 2021-08-28T13:43:53 at 48.195389,16.34855</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/08/28 13:43:53</SimpleData>
+		<SimpleData name="file">29.jpeg</SimpleData>
+		<SimpleData name="picture">5FAAB420-2BB5-46D2-9AAC-C2AE715F564E</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.34855,48.195389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 007</name>
+	<description>Picture https://hvdsomp.info/fellas/000007/31.jpeg of Dude 007 taken on 2021-08-28T13:44:59 at 48.195572,16.348256</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/08/28 13:44:59</SimpleData>
+		<SimpleData name="file">31.jpeg</SimpleData>
+		<SimpleData name="picture">23BDF4C5-E45E-47D1-8191-C8845D4E5525</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.348256,48.195572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 007</name>
+	<description>Picture https://hvdsomp.info/fellas/000007/32.jpeg of Dude 007 taken on 2021-08-28T13:45:11 at 48.195525,16.348208</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/08/28 13:45:11</SimpleData>
+		<SimpleData name="file">32.jpeg</SimpleData>
+		<SimpleData name="picture">8BCF6983-7C85-4B0B-950B-5189CCA0A0C2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.348208,48.195525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 008</name>
+	<description>Picture https://hvdsomp.info/fellas/000008/34.jpeg of Dude 008 taken on 2021-08-28T13:46:16 at 48.195694,16.348183</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/08/28 13:46:16</SimpleData>
+		<SimpleData name="file">34.jpeg</SimpleData>
+		<SimpleData name="picture">276A4ACF-E151-47A3-ADC0-8A7214CE6702</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.348183,48.195694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 008</name>
+	<description>Picture https://hvdsomp.info/fellas/000008/35.jpeg of Dude 008 taken on 2021-08-28T13:46:33 at 48.195683,16.348169</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/08/28 13:46:33</SimpleData>
+		<SimpleData name="file">35.jpeg</SimpleData>
+		<SimpleData name="picture">A7B5400C-18F5-4290-9D2B-AAD5469EED9F</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.348169,48.195683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 008</name>
+	<description>Picture https://hvdsomp.info/fellas/000008/33.jpeg of Dude 008 taken on 2021-08-28T13:45:56 at 48.195658,16.348211</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/08/28 13:45:56</SimpleData>
+		<SimpleData name="file">33.jpeg</SimpleData>
+		<SimpleData name="picture">41506153-0085-4AF3-AF53-246B27650C61</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.348211,48.195658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 009</name>
+	<description>Picture https://hvdsomp.info/fellas/000009/36.jpeg of Dude 009 taken on 2021-08-28T13:55:48 at 48.195428,16.345289</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/08/28 13:55:48</SimpleData>
+		<SimpleData name="file">36.jpeg</SimpleData>
+		<SimpleData name="picture">0199F223-7175-4253-BB9F-6FFE8305F929</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.345289,48.195428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 009</name>
+	<description>Picture https://hvdsomp.info/fellas/000009/37.jpeg of Dude 009 taken on 2021-08-28T13:56:02 at 48.195411,16.345306</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/08/28 13:56:02</SimpleData>
+		<SimpleData name="file">37.jpeg</SimpleData>
+		<SimpleData name="picture">95BFBEF3-9BFB-4D4E-8A00-1475951BE33E</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.345306,48.195411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 010</name>
+	<description>Picture https://hvdsomp.info/fellas/000010/41.jpeg of Dude 010 taken on 2021-10-20T15:07:48 at 48.201725,16.343219</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/10/20 15:07:48</SimpleData>
+		<SimpleData name="file">41.jpeg</SimpleData>
+		<SimpleData name="picture">0111B1CA-EBC4-4478-BB19-FF4DEAE944B9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.343219,48.201725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 010</name>
+	<description>Picture https://hvdsomp.info/fellas/000010/43.jpeg of Dude 010 taken on 2021-10-20T15:08:07 at 48.2016,16.343108</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/10/20 15:08:07</SimpleData>
+		<SimpleData name="file">43.jpeg</SimpleData>
+		<SimpleData name="picture">BF6C4DF4-AB82-4D5D-B471-42881107B5B0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.343108,48.2016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 010</name>
+	<description>Picture https://hvdsomp.info/fellas/000010/42.jpeg of Dude 010 taken on 2021-10-20T15:07:59 at 48.201631,16.343217</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/10/20 15:07:59</SimpleData>
+		<SimpleData name="file">42.jpeg</SimpleData>
+		<SimpleData name="picture">DCFB1DFB-4FBC-4145-9044-A0C6F9D3B0BD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.343217,48.201631</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 010</name>
+	<description>Picture https://hvdsomp.info/fellas/000010/45.jpeg of Dude 010 taken on 2021-10-20T15:09:34 at 48.201744,16.343261</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/10/20 15:09:34</SimpleData>
+		<SimpleData name="file">45.jpeg</SimpleData>
+		<SimpleData name="picture">2CAE8C9B-9A26-4ABA-B6A7-CD3FFE5DF150</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.343261,48.201744</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 010</name>
+	<description>Picture https://hvdsomp.info/fellas/000010/44.jpeg of Dude 010 taken on 2021-10-20T15:09:29 at 48.201739,16.343194</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/10/20 15:09:29</SimpleData>
+		<SimpleData name="file">44.jpeg</SimpleData>
+		<SimpleData name="picture">5522DB5F-D528-4A6E-8B60-E496DDD5BC51</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.343194,48.201739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 011</name>
+	<description>Picture https://hvdsomp.info/fellas/000011/47.jpeg of Dude 011 taken on 2021-10-20T15:12:21 at 48.202958,16.343056</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/10/20 15:12:21</SimpleData>
+		<SimpleData name="file">47.jpeg</SimpleData>
+		<SimpleData name="picture">2287B3BC-A003-4662-B4A2-9A2AC06F0ED1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.343056,48.202958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 011</name>
+	<description>Picture https://hvdsomp.info/fellas/000011/46.jpeg of Dude 011 taken on 2021-10-20T15:11:49 at 48.202992,16.343164</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/10/20 15:11:49</SimpleData>
+		<SimpleData name="file">46.jpeg</SimpleData>
+		<SimpleData name="picture">DF2E21DF-FD18-447F-9B58-24B11F07ECC6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.343164,48.202992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 011</name>
+	<description>Picture https://hvdsomp.info/fellas/000011/48.jpeg of Dude 011 taken on 2021-10-20T15:12:43 at 48.202817,16.343169</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/10/20 15:12:43</SimpleData>
+		<SimpleData name="file">48.jpeg</SimpleData>
+		<SimpleData name="picture">8A480145-40A4-491C-95C8-B569A1C2D8F7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.343169,48.202817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 012</name>
+	<description>Picture https://hvdsomp.info/fellas/000012/6.jpeg of Dude 012 taken on 2021-06-06T12:30:52 at 48.201794,16.361125</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/06/06 12:30:52</SimpleData>
+		<SimpleData name="file">6.jpeg</SimpleData>
+		<SimpleData name="picture">7C2D4210-A3A1-4690-BBC3-C18457BFA0E4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.361125,48.201794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 012</name>
+	<description>Picture https://hvdsomp.info/fellas/000012/49.jpeg of Dude 012 taken on 2021-10-20T15:45:33 at 48.201794,16.361125</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/10/20 15:45:33</SimpleData>
+		<SimpleData name="file">49.jpeg</SimpleData>
+		<SimpleData name="picture">68E8D763-6713-409D-B877-26E3C7E66E3C</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.361125,48.201794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 013</name>
+	<description>Picture https://hvdsomp.info/fellas/000013/51.jpeg of Dude 013 taken on 2021-10-26T14:05:23 at 48.201522,16.390889</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/10/26 14:05:23</SimpleData>
+		<SimpleData name="file">51.jpeg</SimpleData>
+		<SimpleData name="picture">327F1AC1-F810-4814-907E-CCB20833FC73</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.390889,48.201522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 013</name>
+	<description>Picture https://hvdsomp.info/fellas/000013/50.jpeg of Dude 013 taken on 2021-10-26T14:05:18 at 48.201528,16.390842</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/10/26 14:05:18</SimpleData>
+		<SimpleData name="file">50.jpeg</SimpleData>
+		<SimpleData name="picture">1C6129E9-8954-4660-B48A-E35929B55AB9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.390842,48.201528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 013</name>
+	<description>Picture https://hvdsomp.info/fellas/000013/52.jpeg of Dude 013 taken on 2021-10-26T14:05:35 at 48.201533,16.390892</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/10/26 14:05:35</SimpleData>
+		<SimpleData name="file">52.jpeg</SimpleData>
+		<SimpleData name="picture">ADA008C5-264F-4EE1-812B-3881FA26032C</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.390892,48.201533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 014</name>
+	<description>Picture https://hvdsomp.info/fellas/000014/55.jpeg of Dude 014 taken on 2021-10-29T12:19:28 at 48.209306,16.348686</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/10/29 12:19:28</SimpleData>
+		<SimpleData name="file">55.jpeg</SimpleData>
+		<SimpleData name="picture">D6E463B5-BD08-4ADB-B53D-69935EBDD777</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.348686,48.209306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 014</name>
+	<description>Picture https://hvdsomp.info/fellas/000014/54.jpeg of Dude 014 taken on 2021-10-29T12:19:13 at 48.209244,16.348753</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/10/29 12:19:13</SimpleData>
+		<SimpleData name="file">54.jpeg</SimpleData>
+		<SimpleData name="picture">35E7331A-D573-4382-87E9-BC73228A147D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.348753,48.209244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 014</name>
+	<description>Picture https://hvdsomp.info/fellas/000014/53.jpeg of Dude 014 taken on 2021-10-29T12:19:09 at 48.209258,16.348781</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/10/29 12:19:09</SimpleData>
+		<SimpleData name="file">53.jpeg</SimpleData>
+		<SimpleData name="picture">536A5D52-47B5-4CDB-8847-143DBAF0AE85</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.348781,48.209258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 015</name>
+	<description>Picture https://hvdsomp.info/fellas/000015/57.jpeg of Dude 015 taken on 2021-10-29T12:37:30 at 48.212361,16.332911</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/10/29 12:37:30</SimpleData>
+		<SimpleData name="file">57.jpeg</SimpleData>
+		<SimpleData name="picture">B81BB96C-D449-4175-818C-74F3F9A93A0B</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.332911,48.212361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 015</name>
+	<description>Picture https://hvdsomp.info/fellas/000015/56.jpeg of Dude 015 taken on 2021-10-29T12:37:19 at 48.212342,16.332936</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/10/29 12:37:19</SimpleData>
+		<SimpleData name="file">56.jpeg</SimpleData>
+		<SimpleData name="picture">F190368C-A39A-4626-A616-22D0C4C0CA1B</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.332936,48.212342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 016</name>
+	<description>Picture https://hvdsomp.info/fellas/000016/59.jpeg of Dude 016 taken on 2021-11-01T11:23:24 at 48.211739,16.321964</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/11/01 11:23:24</SimpleData>
+		<SimpleData name="file">59.jpeg</SimpleData>
+		<SimpleData name="picture">3EB5FAA8-F047-4FBE-AA7C-A47F295D4FF5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.321964,48.211739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 016</name>
+	<description>Picture https://hvdsomp.info/fellas/000016/58.jpeg of Dude 016 taken on 2021-11-01T11:23:13 at 48.211811,16.322136</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/11/01 11:23:13</SimpleData>
+		<SimpleData name="file">58.jpeg</SimpleData>
+		<SimpleData name="picture">B1B1B9FA-AD88-48EE-96EE-D9BBAFA55EAD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.322136,48.211811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 017</name>
+	<description>Picture https://hvdsomp.info/fellas/000017/61.jpeg of Dude 017 taken on 2021-11-24T11:56:29 at 48.206964,16.353103</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/11/24 11:56:29</SimpleData>
+		<SimpleData name="file">61.jpeg</SimpleData>
+		<SimpleData name="picture">459EA5CA-AA6B-463E-9E05-FA7F61C28C1B</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.353103,48.206964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 017</name>
+	<description>Picture https://hvdsomp.info/fellas/000017/60.jpeg of Dude 017 taken on 2021-11-24T11:56:22 at 48.206908,16.353086</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/11/24 11:56:22</SimpleData>
+		<SimpleData name="file">60.jpeg</SimpleData>
+		<SimpleData name="picture">87786BF8-6F42-46CF-BC0D-D8A001EED47A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.353086,48.206908</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 017</name>
+	<description>Picture https://hvdsomp.info/fellas/000017/62.jpeg of Dude 017 taken on 2021-11-24T11:56:36 at 48.206967,16.353114</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/11/24 11:56:36</SimpleData>
+		<SimpleData name="file">62.jpeg</SimpleData>
+		<SimpleData name="picture">F787F354-7A07-4F5D-BF49-E1AB5B537A17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.353114,48.206967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 018</name>
+	<description>Picture https://hvdsomp.info/fellas/000018/63.jpeg of Dude 018 taken on 2021-11-24T11:57:03 at 48.207069,16.353006</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/11/24 11:57:03</SimpleData>
+		<SimpleData name="file">63.jpeg</SimpleData>
+		<SimpleData name="picture">D459A343-F8DB-4409-B83A-3A872B56B871</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.353006,48.207069</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 018</name>
+	<description>Picture https://hvdsomp.info/fellas/000018/64.jpeg of Dude 018 taken on 2021-11-24T11:57:08 at 48.207097,16.352997</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/11/24 11:57:08</SimpleData>
+		<SimpleData name="file">64.jpeg</SimpleData>
+		<SimpleData name="picture">0B9D61FA-8589-436F-B33A-1474470753E8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.352997,48.207097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 019</name>
+	<description>Picture https://hvdsomp.info/fellas/000019/66.jpeg of Dude 019 taken on 2021-11-24T11:57:22 at 48.207053,16.353011</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/11/24 11:57:22</SimpleData>
+		<SimpleData name="file">66.jpeg</SimpleData>
+		<SimpleData name="picture">658682D3-121B-4355-98FA-31E90AAF29BF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.353011,48.207053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 019</name>
+	<description>Picture https://hvdsomp.info/fellas/000019/65.jpeg of Dude 019 taken on 2021-11-24T11:57:15 at 48.207139,16.353014</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/11/24 11:57:15</SimpleData>
+		<SimpleData name="file">65.jpeg</SimpleData>
+		<SimpleData name="picture">3D53AA2B-A650-4FE8-A064-E6BCC183E06F</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.353014,48.207139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 020</name>
+	<description>Picture https://hvdsomp.info/fellas/000020/67.jpeg of Dude 020 taken on 2021-11-24T12:00:05 at 48.208497,16.352478</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/11/24 12:00:05</SimpleData>
+		<SimpleData name="file">67.jpeg</SimpleData>
+		<SimpleData name="picture">FD96D314-09B5-4B81-9D92-598A8EA1ECE1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.352478,48.208497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 020</name>
+	<description>Picture https://hvdsomp.info/fellas/000020/68.jpeg of Dude 020 taken on 2021-11-24T12:00:27 at 48.208508,16.352464</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/11/24 12:00:27</SimpleData>
+		<SimpleData name="file">68.jpeg</SimpleData>
+		<SimpleData name="picture">253457DD-D772-48CE-B7D3-EBA22BA0D3F2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.352464,48.208508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 021</name>
+	<description>Picture https://hvdsomp.info/fellas/000021/70.jpeg of Dude 021 taken on 2021-11-24T12:01:11 at 48.208886,16.352444</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/11/24 12:01:11</SimpleData>
+		<SimpleData name="file">70.jpeg</SimpleData>
+		<SimpleData name="picture">98ABAF88-B8D9-4687-92BC-7E328CB6B0D8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.352444,48.208886</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 021</name>
+	<description>Picture https://hvdsomp.info/fellas/000021/69.jpeg of Dude 021 taken on 2021-11-24T12:01:06 at 48.208897,16.352408</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/11/24 12:01:06</SimpleData>
+		<SimpleData name="file">69.jpeg</SimpleData>
+		<SimpleData name="picture">96ABBA10-0C20-46C2-9674-163233A9FB12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.352408,48.208897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 022</name>
+	<description>Picture https://hvdsomp.info/fellas/000022/71.jpeg of Dude 022 taken on 2021-11-24T12:10:24 at 48.214164,16.350972</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/11/24 12:10:24</SimpleData>
+		<SimpleData name="file">71.jpeg</SimpleData>
+		<SimpleData name="picture">648F5275-8ECF-45A5-A0AA-CF602B8C015E</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.350972,48.214164</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 023</name>
+	<description>Picture https://hvdsomp.info/fellas/000023/73.jpeg of Dude 023 taken on 2021-12-18T12:17:31 at 48.207267,16.351164</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/12/18 12:17:31</SimpleData>
+		<SimpleData name="file">73.jpeg</SimpleData>
+		<SimpleData name="picture">4B041104-6032-4C19-982B-15B8DBCE656C</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.351164,48.207267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 023</name>
+	<description>Picture https://hvdsomp.info/fellas/000023/72.jpeg of Dude 023 taken on 2021-12-18T12:17:23 at 48.207281,16.351167</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/12/18 12:17:23</SimpleData>
+		<SimpleData name="file">72.jpeg</SimpleData>
+		<SimpleData name="picture">244AEA65-540A-44B6-8D35-5D84FB921BD5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.351167,48.207281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 024</name>
+	<description>Picture https://hvdsomp.info/fellas/000024/75.jpeg of Dude 024 taken on 2021-12-18T12:26:56 at 48.206628,16.353064</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/12/18 12:26:56</SimpleData>
+		<SimpleData name="file">75.jpeg</SimpleData>
+		<SimpleData name="picture">4A265C98-538E-4D7A-B20F-E5CCF64C25A4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.353064,48.206628</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 024</name>
+	<description>Picture https://hvdsomp.info/fellas/000024/74.jpeg of Dude 024 taken on 2021-12-18T12:26:49 at 48.206711,16.353067</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/12/18 12:26:49</SimpleData>
+		<SimpleData name="file">74.jpeg</SimpleData>
+		<SimpleData name="picture">2D19B1EB-3641-41AA-BD28-B6D79841E6BA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.353067,48.206711</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 025</name>
+	<description>Picture https://hvdsomp.info/fellas/000025/77.jpeg of Dude 025 taken on 2021-12-18T12:28:18 at 48.205836,16.353119</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/12/18 12:28:18</SimpleData>
+		<SimpleData name="file">77.jpeg</SimpleData>
+		<SimpleData name="picture">B1A802E3-3D80-47D1-942D-DA63E6B6D3A6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.353119,48.205836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 025</name>
+	<description>Picture https://hvdsomp.info/fellas/000025/76.jpeg of Dude 025 taken on 2021-12-18T12:28:13 at 48.205861,16.353117</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/12/18 12:28:13</SimpleData>
+		<SimpleData name="file">76.jpeg</SimpleData>
+		<SimpleData name="picture">03EA501C-76E3-4F1D-897F-77FB13115F83</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.353117,48.205861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 026</name>
+	<description>Picture https://hvdsomp.info/fellas/000026/80.jpeg of Dude 026 taken on 2021-12-27T11:35:25 at 48.196997,16.354683</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/12/27 11:35:25</SimpleData>
+		<SimpleData name="file">80.jpeg</SimpleData>
+		<SimpleData name="picture">02652BD0-8184-42C5-9F98-704BCF44CDBD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.354683,48.196997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 026</name>
+	<description>Picture https://hvdsomp.info/fellas/000026/81.jpeg of Dude 026 taken on 2021-12-27T11:35:31 at 48.196997,16.354789</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2021/12/27 11:35:31</SimpleData>
+		<SimpleData name="file">81.jpeg</SimpleData>
+		<SimpleData name="picture">CE67931B-7588-4905-8842-998CB3A0A5F8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.354789,48.196997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 026</name>
+	<description>Picture https://hvdsomp.info/fellas/000026/157.JPG of Dude 026 taken on 2025-04-06T12:29:29 at 48.212058,16.368697</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2025/04/06 12:29:29</SimpleData>
+		<SimpleData name="file">157.JPG</SimpleData>
+		<SimpleData name="picture">6E2CBD6D-CB34-4D40-9F84-A56F955DEC65</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.368697,48.212058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 027</name>
+	<description>Picture https://hvdsomp.info/fellas/000027/84.jpeg of Dude 027 taken on 2022-01-02T14:55:08 at 48.214081,16.359661</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/01/02 14:55:08</SimpleData>
+		<SimpleData name="file">84.jpeg</SimpleData>
+		<SimpleData name="picture">FFC9C113-7455-4E52-84C6-0985B66DA300</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.359661,48.214081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 027</name>
+	<description>Picture https://hvdsomp.info/fellas/000027/82.jpeg of Dude 027 taken on 2022-01-02T14:54:52 at 48.214172,16.359644</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/01/02 14:54:52</SimpleData>
+		<SimpleData name="file">82.jpeg</SimpleData>
+		<SimpleData name="picture">A92576D5-06FC-4D15-BD50-470ED1E80FE8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.359644,48.214172</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 027</name>
+	<description>Picture https://hvdsomp.info/fellas/000027/83.jpeg of Dude 027 taken on 2022-01-02T14:55:00 at 48.214089,16.359658</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/01/02 14:55:00</SimpleData>
+		<SimpleData name="file">83.jpeg</SimpleData>
+		<SimpleData name="picture">6BC0A87A-063A-4D72-BC61-332AC485F5C4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.359658,48.214089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 028</name>
+	<description>Picture https://hvdsomp.info/fellas/000028/85.JPG of Dude 028 taken on 2022-01-02T16:57:49 at 48.2079,16.379186</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/01/02 16:57:49</SimpleData>
+		<SimpleData name="file">85.JPG</SimpleData>
+		<SimpleData name="picture">64CD275F-22CF-46A0-954C-C5EA9FD44023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.379186,48.2079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 029</name>
+	<description>Picture https://hvdsomp.info/fellas/000029/86.jpeg of Dude 029 taken on 2022-01-03T14:03:14 at 48.212089,16.368744</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/01/03 14:03:14</SimpleData>
+		<SimpleData name="file">86.jpeg</SimpleData>
+		<SimpleData name="picture">2AFEAF1D-2824-4AE5-9305-4637577E1600</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.368744,48.212089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 029</name>
+	<description>Picture https://hvdsomp.info/fellas/000029/87.jpeg of Dude 029 taken on 2022-01-03T14:03:20 at 48.212053,16.368689</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/01/03 14:03:20</SimpleData>
+		<SimpleData name="file">87.jpeg</SimpleData>
+		<SimpleData name="picture">97675F58-3560-46A3-B964-2939FFACCC77</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.368689,48.212053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 030</name>
+	<description>Picture https://hvdsomp.info/fellas/000030/88.jpeg of Dude 030 taken on 2022-01-03T14:03:47 at 48.211781,16.368442</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/01/03 14:03:47</SimpleData>
+		<SimpleData name="file">88.jpeg</SimpleData>
+		<SimpleData name="picture">15EE3C45-8665-4E4B-8A59-CF511BB25E42</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.368442,48.211781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 030</name>
+	<description>Picture https://hvdsomp.info/fellas/000030/158.JPG of Dude 030 taken on 2025-04-06T12:30:04 at 48.211914,16.368617</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2025/04/06 12:30:04</SimpleData>
+		<SimpleData name="file">158.JPG</SimpleData>
+		<SimpleData name="picture">CE13217E-EEE4-42AA-A4C3-62F2F3BAF29C</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.368617,48.211914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 030</name>
+	<description>Picture https://hvdsomp.info/fellas/000030/89.jpeg of Dude 030 taken on 2022-01-03T14:03:57 at 48.2119,16.368575</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/01/03 14:03:57</SimpleData>
+		<SimpleData name="file">89.jpeg</SimpleData>
+		<SimpleData name="picture">0018CEF9-FA2C-412D-B68A-1A50CBC44AB5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.368575,48.2119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 031</name>
+	<description>Picture https://hvdsomp.info/fellas/000031/90.jpeg of Dude 031 taken on 2022-01-12T14:48:58 at 48.196286,16.365031</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/01/12 14:48:58</SimpleData>
+		<SimpleData name="file">90.jpeg</SimpleData>
+		<SimpleData name="picture">4FD959D1-E2DC-4555-BEC7-3FCCD86D7A83</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.365031,48.196286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 031</name>
+	<description>Picture https://hvdsomp.info/fellas/000031/91.jpeg of Dude 031 taken on 2022-01-12T14:49:11 at 48.196369,16.365086</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/01/12 14:49:11</SimpleData>
+		<SimpleData name="file">91.jpeg</SimpleData>
+		<SimpleData name="picture">3832BC00-E33C-4232-BFBE-A91E0CDA7015</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.365086,48.196369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 032</name>
+	<description>Picture https://hvdsomp.info/fellas/000032/92.jpeg of Dude 032 taken on 2022-01-15T14:48:18 at 48.196617,16.348144</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/01/15 14:48:18</SimpleData>
+		<SimpleData name="file">92.jpeg</SimpleData>
+		<SimpleData name="picture">E1B742B2-02DD-492C-9A92-2EE5A3868E8A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.348144,48.196617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 032</name>
+	<description>Picture https://hvdsomp.info/fellas/000032/93.jpeg of Dude 032 taken on 2022-01-15T14:48:24 at 48.196617,16.348144</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/01/15 14:48:24</SimpleData>
+		<SimpleData name="file">93.jpeg</SimpleData>
+		<SimpleData name="picture">1335087B-17A8-4D40-8A1B-E42C9F591EDB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.348144,48.196617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 032</name>
+	<description>Picture https://hvdsomp.info/fellas/000032/94.jpeg of Dude 032 taken on 2022-01-15T14:48:32 at 48.196617,16.348136</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/01/15 14:48:32</SimpleData>
+		<SimpleData name="file">94.jpeg</SimpleData>
+		<SimpleData name="picture">B9809E61-95B3-4952-8BFD-13160CDE0B18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.348136,48.196617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 033</name>
+	<description>Picture https://hvdsomp.info/fellas/000033/95.jpeg of Dude 033 taken on 2022-01-21T13:46:01 at 48.197894,16.396647</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/01/21 13:46:01</SimpleData>
+		<SimpleData name="file">95.jpeg</SimpleData>
+		<SimpleData name="picture">0B540999-23F4-4C7D-9586-09F1DCEE1AF3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.396647,48.197894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 033</name>
+	<description>Picture https://hvdsomp.info/fellas/000033/96.jpeg of Dude 033 taken on 2022-01-21T13:46:05 at 48.197922,16.396736</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/01/21 13:46:05</SimpleData>
+		<SimpleData name="file">96.jpeg</SimpleData>
+		<SimpleData name="picture">79774249-F0DE-4CEE-88C6-6E54D3C0B56A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.396736,48.197922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 034</name>
+	<description>Picture https://hvdsomp.info/fellas/000034/98.jpeg of Dude 034 taken on 2022-02-13T14:17:48 at 48.217369,16.345556</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/02/13 14:17:48</SimpleData>
+		<SimpleData name="file">98.jpeg</SimpleData>
+		<SimpleData name="picture">27794D5F-DEE8-40F2-9716-252FCCB214D2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.345556,48.217369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 034</name>
+	<description>Picture https://hvdsomp.info/fellas/000034/97.jpeg of Dude 034 taken on 2022-02-13T14:17:39 at 48.217389,16.345747</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/02/13 14:17:39</SimpleData>
+		<SimpleData name="file">97.jpeg</SimpleData>
+		<SimpleData name="picture">AEE4257B-9931-48E1-BFCB-A60541E9B4DE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.345747,48.217389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 035</name>
+	<description>Picture https://hvdsomp.info/fellas/000035/119.jpeg of Dude 035 taken on 2022-12-01T10:43:48 at 48.217469,16.348008</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/12/01 10:43:48</SimpleData>
+		<SimpleData name="file">119.jpeg</SimpleData>
+		<SimpleData name="picture">279FE8AC-F8E3-479B-A87D-7DC4928FD8C2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.348008,48.217469</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 035</name>
+	<description>Picture https://hvdsomp.info/fellas/000035/99.jpeg of Dude 035 taken on 2022-02-13T14:20:15 at 48.217639,16.348019</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/02/13 14:20:15</SimpleData>
+		<SimpleData name="file">99.jpeg</SimpleData>
+		<SimpleData name="picture">EE2D9709-82AE-4CE3-8AA6-5A61F6FF9ABD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.348019,48.217639</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 035</name>
+	<description>Picture https://hvdsomp.info/fellas/000035/101.jpeg of Dude 035 taken on 2022-02-13T14:20:29 at 48.217531,16.348011</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/02/13 14:20:29</SimpleData>
+		<SimpleData name="file">101.jpeg</SimpleData>
+		<SimpleData name="picture">51B45382-9F65-43DA-A5E2-10D18453941C</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.348011,48.217531</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 035</name>
+	<description>Picture https://hvdsomp.info/fellas/000035/121.jpeg of Dude 035 taken on 2022-12-01T10:44:04 at 48.217372,16.347958</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/12/01 10:44:04</SimpleData>
+		<SimpleData name="file">121.jpeg</SimpleData>
+		<SimpleData name="picture">CC3566B8-49F7-4E06-9FE6-D21D85492932</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.347958,48.217372</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 035</name>
+	<description>Picture https://hvdsomp.info/fellas/000035/120.jpeg of Dude 035 taken on 2022-12-01T10:43:54 at 48.217431,16.348022</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/12/01 10:43:54</SimpleData>
+		<SimpleData name="file">120.jpeg</SimpleData>
+		<SimpleData name="picture">1AF1455D-B17C-4CA2-BF02-675A92FE729D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.348022,48.217431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 035</name>
+	<description>Picture https://hvdsomp.info/fellas/000035/100.jpeg of Dude 035 taken on 2022-02-13T14:20:20 at 48.217544,16.347986</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/02/13 14:20:20</SimpleData>
+		<SimpleData name="file">100.jpeg</SimpleData>
+		<SimpleData name="picture">013C50E4-52E9-4BF3-87BC-74C6FFF013B6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.347986,48.217544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 036</name>
+	<description>Picture https://hvdsomp.info/fellas/000036/125.jpeg of Dude 036 taken on 2022-12-01T10:47:48 at 48.218208,16.350647</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/12/01 10:47:48</SimpleData>
+		<SimpleData name="file">125.jpeg</SimpleData>
+		<SimpleData name="picture">16502DFE-24E1-44DD-94EC-CD23662EA872</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.350647,48.218208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 036</name>
+	<description>Picture https://hvdsomp.info/fellas/000036/104.jpeg of Dude 036 taken on 2022-02-13T14:23:41 at 48.218211,16.350608</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/02/13 14:23:41</SimpleData>
+		<SimpleData name="file">104.jpeg</SimpleData>
+		<SimpleData name="picture">E17DE690-9F9A-423B-A3AE-C1A33D7EC06A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.350608,48.218211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 036</name>
+	<description>Picture https://hvdsomp.info/fellas/000036/124.jpeg of Dude 036 taken on 2022-12-01T10:47:43 at 48.218219,16.350661</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/12/01 10:47:43</SimpleData>
+		<SimpleData name="file">124.jpeg</SimpleData>
+		<SimpleData name="picture">6B4B2844-6F11-4613-88C2-818D72B8E9A7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.350661,48.218219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 036</name>
+	<description>Picture https://hvdsomp.info/fellas/000036/103.jpeg of Dude 036 taken on 2022-02-13T14:23:33 at 48.218211,16.350606</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/02/13 14:23:33</SimpleData>
+		<SimpleData name="file">103.jpeg</SimpleData>
+		<SimpleData name="picture">5EAC7CF9-AA8C-475F-B1B3-CE46DE491F8F</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.350606,48.218211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 036</name>
+	<description>Picture https://hvdsomp.info/fellas/000036/102.jpeg of Dude 036 taken on 2022-02-13T14:23:25 at 48.218175,16.350542</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/02/13 14:23:25</SimpleData>
+		<SimpleData name="file">102.jpeg</SimpleData>
+		<SimpleData name="picture">3D4D2F54-E4E4-4587-A6BA-E8614DCC9220</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.350542,48.218175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 037</name>
+	<description>Picture https://hvdsomp.info/fellas/000037/105.jpeg of Dude 037 taken on 2022-02-13T14:24:15 at 48.218503,16.351114</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/02/13 14:24:15</SimpleData>
+		<SimpleData name="file">105.jpeg</SimpleData>
+		<SimpleData name="picture">0F692CB3-1EC9-4CE2-898A-A3892F707EE5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.351114,48.218503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 037</name>
+	<description>Picture https://hvdsomp.info/fellas/000037/106.jpeg of Dude 037 taken on 2022-02-13T14:24:23 at 48.218539,16.350875</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/02/13 14:24:23</SimpleData>
+		<SimpleData name="file">106.jpeg</SimpleData>
+		<SimpleData name="picture">2FF22AD4-9D08-4B08-AC98-247277DCB14C</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.350875,48.218539</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 038</name>
+	<description>Picture https://hvdsomp.info/fellas/000038/109.jpeg of Dude 038 taken on 2022-02-23T13:42:40 at 48.192478,16.342675</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/02/23 13:42:40</SimpleData>
+		<SimpleData name="file">109.jpeg</SimpleData>
+		<SimpleData name="picture">3ED44A49-FFEC-4871-A1FB-271F7017B7FA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.342675,48.192478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 038</name>
+	<description>Picture https://hvdsomp.info/fellas/000038/108.jpeg of Dude 038 taken on 2022-02-23T13:42:32 at 48.192558,16.342653</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/02/23 13:42:32</SimpleData>
+		<SimpleData name="file">108.jpeg</SimpleData>
+		<SimpleData name="picture">0FFD2DE5-539F-44F9-85ED-98C9FA46AA8C</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.342653,48.192558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 039</name>
+	<description>Picture https://hvdsomp.info/fellas/000039/111.jpeg of Dude 039 taken on 2022-02-25T18:15:13 at 48.210083,16.348853</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/02/25 18:15:13</SimpleData>
+		<SimpleData name="file">111.jpeg</SimpleData>
+		<SimpleData name="picture">5336A02F-522A-442B-8A2A-BBA1C0727D6B</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.348853,48.210083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 039</name>
+	<description>Picture https://hvdsomp.info/fellas/000039/110.jpeg of Dude 039 taken on 2022-02-25T18:15:07 at 48.209914,16.348825</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/02/25 18:15:07</SimpleData>
+		<SimpleData name="file">110.jpeg</SimpleData>
+		<SimpleData name="picture">E7E57177-8B5D-4644-A953-36C6E9275075</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.348825,48.209914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 040</name>
+	<description>Picture https://hvdsomp.info/fellas/000040/113.jpeg of Dude 040 taken on 2022-02-25T22:39:45 at 48.211556,16.348653</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/02/25 22:39:45</SimpleData>
+		<SimpleData name="file">113.jpeg</SimpleData>
+		<SimpleData name="picture">FFD63089-FF5E-4CCD-85C6-AE627025F470</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.348653,48.211556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 040</name>
+	<description>Picture https://hvdsomp.info/fellas/000040/112.jpeg of Dude 040 taken on 2022-02-25T22:39:42 at 48.21165,16.348669</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/02/25 22:39:42</SimpleData>
+		<SimpleData name="file">112.jpeg</SimpleData>
+		<SimpleData name="picture">4AD2E941-373F-4B85-AC82-9CCF63021731</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.348669,48.21165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 041</name>
+	<description>Picture https://hvdsomp.info/fellas/000041/114.jpeg of Dude 041 taken on 2022-06-26T12:46:46 at 48.193436,16.345067</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/06/26 12:46:46</SimpleData>
+		<SimpleData name="file">114.jpeg</SimpleData>
+		<SimpleData name="picture">2F349E8C-7EEE-43E9-9D2A-A9A91996AFA5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.345067,48.193436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 042</name>
+	<description>Picture https://hvdsomp.info/fellas/000042/115.jpeg of Dude 042 taken on 2022-11-20T13:00:29 at 48.209603,16.375247</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/11/20 13:00:29</SimpleData>
+		<SimpleData name="file">115.jpeg</SimpleData>
+		<SimpleData name="picture">AF4B7855-9328-41FB-968F-19F710B3CCFB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.375247,48.209603</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 042</name>
+	<description>Picture https://hvdsomp.info/fellas/000042/116.jpeg of Dude 042 taken on 2022-11-20T13:00:32 at 48.209597,16.375253</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/11/20 13:00:32</SimpleData>
+		<SimpleData name="file">116.jpeg</SimpleData>
+		<SimpleData name="picture">D01C3980-C88E-4C6D-93BD-76B3AEA66C37</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.375253,48.209597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 043</name>
+	<description>Picture https://hvdsomp.info/fellas/000043/118.jpeg of Dude 043 taken on 2022-12-01T10:07:42 at 48.214686,16.349286</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/12/01 10:07:42</SimpleData>
+		<SimpleData name="file">118.jpeg</SimpleData>
+		<SimpleData name="picture">CB4C09CC-1D01-4570-9E88-BC527FBA6A54</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.349286,48.214686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 043</name>
+	<description>Picture https://hvdsomp.info/fellas/000043/117.jpeg of Dude 043 taken on 2022-12-01T10:07:31 at 48.214717,16.349358</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/12/01 10:07:31</SimpleData>
+		<SimpleData name="file">117.jpeg</SimpleData>
+		<SimpleData name="picture">DB9C5C68-DCB9-4579-A5F1-6237A7006137</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.349358,48.214717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 044</name>
+	<description>Picture https://hvdsomp.info/fellas/000044/123.jpeg of Dude 044 taken on 2022-12-01T10:45:37 at 48.217792,16.348975</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/12/01 10:45:37</SimpleData>
+		<SimpleData name="file">123.jpeg</SimpleData>
+		<SimpleData name="picture">D271FF39-1589-4BE8-BE52-EC1AD88B0F19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.348975,48.217792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 044</name>
+	<description>Picture https://hvdsomp.info/fellas/000044/122.jpeg of Dude 044 taken on 2022-12-01T10:45:31 at 48.217664,16.348817</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/12/01 10:45:31</SimpleData>
+		<SimpleData name="file">122.jpeg</SimpleData>
+		<SimpleData name="picture">95EA7D77-387A-4866-8BEB-68A66AEE6A0A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.348817,48.217664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 045</name>
+	<description>Picture https://hvdsomp.info/fellas/000045/128.jpeg of Dude 045 taken on 2022-12-01T11:05:23 at 48.217503,16.34665</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/12/01 11:05:23</SimpleData>
+		<SimpleData name="file">128.jpeg</SimpleData>
+		<SimpleData name="picture">BB787880-3A31-4046-8216-11260D5CB067</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.34665,48.217503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 045</name>
+	<description>Picture https://hvdsomp.info/fellas/000045/126.jpeg of Dude 045 taken on 2022-12-01T11:05:05 at 48.21745,16.346664</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/12/01 11:05:05</SimpleData>
+		<SimpleData name="file">126.jpeg</SimpleData>
+		<SimpleData name="picture">19F7E114-DDC7-49D5-8965-E427EA44068A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.346664,48.21745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 046</name>
+	<description>Picture https://hvdsomp.info/fellas/000046/128.jpeg of Dude 046 taken on 2022-12-01T11:05:23 at 48.217503,16.34665</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/12/01 11:05:23</SimpleData>
+		<SimpleData name="file">128.jpeg</SimpleData>
+		<SimpleData name="picture">BB787880-3A31-4046-8216-11260D5CB067</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.34665,48.217503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 046</name>
+	<description>Picture https://hvdsomp.info/fellas/000046/127.jpeg of Dude 046 taken on 2022-12-01T11:05:12 at 48.21745,16.346931</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2022/12/01 11:05:12</SimpleData>
+		<SimpleData name="file">127.jpeg</SimpleData>
+		<SimpleData name="picture">D03D79F8-C2EB-4B56-9797-08179C8BD85C</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.346931,48.21745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 047</name>
+	<description>Picture https://hvdsomp.info/fellas/000047/129.jpeg of Dude 047 taken on 2023-02-08T14:29:48 at 48.2071,16.352833</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2023/02/08 14:29:48</SimpleData>
+		<SimpleData name="file">129.jpeg</SimpleData>
+		<SimpleData name="picture">B21301F1-C629-416D-ADA7-5B7E0847EA9E</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.352833,48.2071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 048</name>
+	<description>Picture https://hvdsomp.info/fellas/000048/133.jpeg of Dude 048 taken on 2023-03-11T13:00:50 at 48.193969,16.346931</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2023/03/11 13:00:50</SimpleData>
+		<SimpleData name="file">133.jpeg</SimpleData>
+		<SimpleData name="picture">44959D3C-AE05-41A0-8ABF-BD00BF7D68E6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.346931,48.193969</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 048</name>
+	<description>Picture https://hvdsomp.info/fellas/000048/132.jpeg of Dude 048 taken on 2023-03-11T13:00:50 at 48.193969,16.346931</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2023/03/11 13:00:50</SimpleData>
+		<SimpleData name="file">132.jpeg</SimpleData>
+		<SimpleData name="picture">44959D3C-AE05-41A0-8ABF-BD00BF7D68E6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.346931,48.193969</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 048</name>
+	<description>Picture https://hvdsomp.info/fellas/000048/131.jpeg of Dude 048 taken on 2023-03-11T13:00:37 at 48.19395,16.346683</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2023/03/11 13:00:37</SimpleData>
+		<SimpleData name="file">131.jpeg</SimpleData>
+		<SimpleData name="picture">1E2C3D7F-5CA1-4CC2-9B0A-FC58945A9D7C</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.346683,48.19395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 048</name>
+	<description>Picture https://hvdsomp.info/fellas/000048/130.jpeg of Dude 048 taken on 2023-03-11T13:00:37 at 48.19395,16.346683</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2023/03/11 13:00:37</SimpleData>
+		<SimpleData name="file">130.jpeg</SimpleData>
+		<SimpleData name="picture">1E2C3D7F-5CA1-4CC2-9B0A-FC58945A9D7C</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.346683,48.19395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 049</name>
+	<description>Picture https://hvdsomp.info/fellas/000049/134.JPG of Dude 049 taken on 2023-07-21T09:04:26 at 48.216822,16.348106</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2023/07/21 09:04:26</SimpleData>
+		<SimpleData name="file">134.JPG</SimpleData>
+		<SimpleData name="picture">AA4127E5-7CDF-4891-92A9-C6B07BB21D98</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.348106,48.216822</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 050</name>
+	<description>Picture https://hvdsomp.info/fellas/000050/135.JPG of Dude 050 taken on 2023-07-21T10:06:05 at 48.212294,16.369058</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2023/07/21 10:06:05</SimpleData>
+		<SimpleData name="file">135.JPG</SimpleData>
+		<SimpleData name="picture">8E94B9E2-AC4C-4F5C-87D3-05818F45D0FD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.369058,48.212294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 051</name>
+	<description>Picture https://hvdsomp.info/fellas/000051/137.JPG of Dude 051 taken on 2023-07-21T11:05:44 at 48.215589,16.347989</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2023/07/21 11:05:44</SimpleData>
+		<SimpleData name="file">137.JPG</SimpleData>
+		<SimpleData name="picture">8EEA91B6-074C-48EF-8315-F3E605910776</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.347989,48.215589</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 051</name>
+	<description>Picture https://hvdsomp.info/fellas/000051/136.JPG of Dude 051 taken on 2023-07-21T11:05:40 at 48.215519,16.348061</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2023/07/21 11:05:40</SimpleData>
+		<SimpleData name="file">136.JPG</SimpleData>
+		<SimpleData name="picture">2C385308-E756-4BDF-9453-28F6C50BDF67</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.348061,48.215519</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 052</name>
+	<description>Picture https://hvdsomp.info/fellas/000052/138.JPG of Dude 052 taken on 2024-06-22T11:55:37 at 48.188939,16.349228</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2024/06/22 11:55:37</SimpleData>
+		<SimpleData name="file">138.JPG</SimpleData>
+		<SimpleData name="picture">591CF43F-8B7F-4A64-BD92-8371EBC108A0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.349228,48.188939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 053</name>
+	<description>Picture https://hvdsomp.info/fellas/000053/139.JPG of Dude 053 taken on 2024-08-06T15:31:13 at 48.196378,16.394275</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2024/08/06 15:31:13</SimpleData>
+		<SimpleData name="file">139.JPG</SimpleData>
+		<SimpleData name="picture">53DC2E0C-981A-4261-BE8F-A50B3EBE889C</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.394275,48.196378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 053</name>
+	<description>Picture https://hvdsomp.info/fellas/000053/140.JPG of Dude 053 taken on 2024-08-06T15:31:16 at 48.196369,16.394303</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2024/08/06 15:31:16</SimpleData>
+		<SimpleData name="file">140.JPG</SimpleData>
+		<SimpleData name="picture">C5355295-3316-4944-8259-78C11B332D79</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.394303,48.196369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 054</name>
+	<description>Picture https://hvdsomp.info/fellas/000054/141.JPG of Dude 054 taken on 2025-02-28T15:22:23 at 48.210094,16.388469</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2025/02/28 15:22:23</SimpleData>
+		<SimpleData name="file">141.JPG</SimpleData>
+		<SimpleData name="picture">D161163F-380C-4CD8-B9E5-32099B2AD152</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.388469,48.210094</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 055</name>
+	<description>Picture https://hvdsomp.info/fellas/000055/142.JPG of Dude 055 taken on 2025-03-02T11:33:28 at 48.194761,16.320794</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2025/03/02 11:33:28</SimpleData>
+		<SimpleData name="file">142.JPG</SimpleData>
+		<SimpleData name="picture">9E42B592-E41F-4823-A49C-3B5DDA59DF3E</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.320794,48.194761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 056</name>
+	<description>Picture https://hvdsomp.info/fellas/000056/143.JPG of Dude 056 taken on 2025-03-06T12:37:11 at 48.222031,16.356856</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2025/03/06 12:37:11</SimpleData>
+		<SimpleData name="file">143.JPG</SimpleData>
+		<SimpleData name="picture">2B6F5E76-D86A-40DC-B7FF-D84283EB3DDE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.356856,48.222031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 056</name>
+	<description>Picture https://hvdsomp.info/fellas/000056/144.JPG of Dude 056 taken on 2025-03-06T12:37:19 at 48.222022,16.356886</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2025/03/06 12:37:19</SimpleData>
+		<SimpleData name="file">144.JPG</SimpleData>
+		<SimpleData name="picture">2D616B92-6E1C-4105-9099-03E0BF5DA5A5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.356886,48.222022</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 057</name>
+	<description>Picture https://hvdsomp.info/fellas/000057/145.JPG of Dude 057 taken on 2025-03-06T13:15:14 at 48.225861,16.359589</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2025/03/06 13:15:14</SimpleData>
+		<SimpleData name="file">145.JPG</SimpleData>
+		<SimpleData name="picture">28BFC57C-AB11-4533-A704-45B4FA24183A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.359589,48.225861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 058</name>
+	<description>Picture https://hvdsomp.info/fellas/000058/146.JPG of Dude 058 taken on 2025-03-06T13:15:51 at 48.226006,16.359503</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2025/03/06 13:15:51</SimpleData>
+		<SimpleData name="file">146.JPG</SimpleData>
+		<SimpleData name="picture">F8AF928B-CBA3-4AA4-B2E3-1A8EAE41105F</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.359503,48.226006</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 059</name>
+	<description>Picture https://hvdsomp.info/fellas/000059/147.JPG of Dude 059 taken on 2025-03-09T14:17:51 at 48.214564,16.353111</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2025/03/09 14:17:51</SimpleData>
+		<SimpleData name="file">147.JPG</SimpleData>
+		<SimpleData name="picture">4F9AE62F-188E-4CF7-8797-B1BE4F399A40</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.353111,48.214564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 060</name>
+	<description>Picture https://hvdsomp.info/fellas/000060/148.JPG of Dude 060 taken on 2025-03-09T14:31:14 at 48.211125,16.347933</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2025/03/09 14:31:14</SimpleData>
+		<SimpleData name="file">148.JPG</SimpleData>
+		<SimpleData name="picture">23FA9B4F-234A-40CE-8B68-C113B62B7BF0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.347933,48.211125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 061</name>
+	<description>Picture https://hvdsomp.info/fellas/000061/149.JPG of Dude 061 taken on 2025-03-09T15:47:49 at 48.198569,16.359119</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2025/03/09 15:47:49</SimpleData>
+		<SimpleData name="file">149.JPG</SimpleData>
+		<SimpleData name="picture">DFC382C0-5731-4E1E-9086-E112039FA745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.359119,48.198569</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 062</name>
+	<description>Picture https://hvdsomp.info/fellas/000062/150.JPG of Dude 062 taken on 2025-03-11T16:27:59 at 48.190781,16.351031</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2025/03/11 16:27:59</SimpleData>
+		<SimpleData name="file">150.JPG</SimpleData>
+		<SimpleData name="picture">8E99E8D3-A894-4B2D-B92C-9042142D2389</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.351031,48.190781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 063</name>
+	<description>Picture https://hvdsomp.info/fellas/000063/151.JPG of Dude 063 taken on 2025-03-11T16:29:27 at 48.191697,16.351736</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2025/03/11 16:29:27</SimpleData>
+		<SimpleData name="file">151.JPG</SimpleData>
+		<SimpleData name="picture">5D3CC2CC-CDB2-461D-8065-E532FCF328BA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.351736,48.191697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 063</name>
+	<description>Picture https://hvdsomp.info/fellas/000063/152.JPG of Dude 063 taken on 2025-03-11T16:29:38 at 48.1917,16.35175</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2025/03/11 16:29:38</SimpleData>
+		<SimpleData name="file">152.JPG</SimpleData>
+		<SimpleData name="picture">A72D98F9-BA2A-4AFC-B0DC-85E235B8515A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.35175,48.1917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 064</name>
+	<description>Picture https://hvdsomp.info/fellas/000064/153.JPG of Dude 064 taken on 2025-03-16T13:01:55 at 48.225617,16.352325</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2025/03/16 13:01:55</SimpleData>
+		<SimpleData name="file">153.JPG</SimpleData>
+		<SimpleData name="picture">FC285CD0-8ADB-4650-9751-0A70369E7EC2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.352325,48.225617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 065</name>
+	<description>Picture https://hvdsomp.info/fellas/000065/154.JPG of Dude 065 taken on 2025-04-05T13:20:33 at 48.2291,16.371142</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2025/04/05 13:20:33</SimpleData>
+		<SimpleData name="file">154.JPG</SimpleData>
+		<SimpleData name="picture">34748F31-0447-4D4A-9913-15C333CAB115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.371142,48.2291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 066</name>
+	<description>Picture https://hvdsomp.info/fellas/000066/155.JPG of Dude 066 taken on 2025-04-05T13:22:30 at 48.228733,16.371697</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2025/04/05 13:22:30</SimpleData>
+		<SimpleData name="file">155.JPG</SimpleData>
+		<SimpleData name="picture">034FB71E-30F7-41CA-836F-C0E933882A19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.371697,48.228733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 067</name>
+	<description>Picture https://hvdsomp.info/fellas/000067/156.JPG of Dude 067 taken on 2025-04-05T13:23:51 at 48.228706,16.372175</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2025/04/05 13:23:51</SimpleData>
+		<SimpleData name="file">156.JPG</SimpleData>
+		<SimpleData name="picture">B11439C0-107C-48AC-B677-D9C57ECB5558</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.372175,48.228706</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 068</name>
+	<description>Picture https://hvdsomp.info/fellas/000068/152.JPG of Dude 068 taken on 2025-04-05T13:23:51 at 48.228706,16.372175</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2025/04/05 13:23:51</SimpleData>
+		<SimpleData name="file">152.JPG</SimpleData>
+		<SimpleData name="picture">B11439C0-107C-48AC-B677-D9C57ECB5558</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.372175,48.228706</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 069</name>
+	<description>Picture https://hvdsomp.info/fellas/000069/160.JPG of Dude 069 taken on 2025-04-14T14:28:11 at 48.212256,16.390086</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2025/04/14 14:28:11</SimpleData>
+		<SimpleData name="file">160.JPG</SimpleData>
+		<SimpleData name="picture">D9031FDB-0B46-4785-9362-5BC3055E5762</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.390086,48.212256</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 069</name>
+	<description>Picture https://hvdsomp.info/fellas/000069/159.JPG of Dude 069 taken on 2025-04-14T14:27:59 at 48.212264,16.390058</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2025/04/14 14:27:59</SimpleData>
+		<SimpleData name="file">159.JPG</SimpleData>
+		<SimpleData name="picture">B24B9428-63F0-47BE-99FE-A04C808348CB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.390058,48.212264</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 070</name>
+	<description>Picture https://hvdsomp.info/fellas/000070/162.JPG of Dude 070 taken on 2025-10-13T13:23:42 at 48.210169,16.334714</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2025/10/13 13:23:42</SimpleData>
+		<SimpleData name="file">162.JPG</SimpleData>
+		<SimpleData name="picture">0D68760A-A728-470F-B8A6-5E1895E1EB1B</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.334714,48.210169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 071</name>
+	<description>Picture https://hvdsomp.info/fellas/000071/163.JPG of Dude 071 taken on 2025-10-13T13:24:10 at 48.210217,16.334597</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2025/10/13 13:24:10</SimpleData>
+		<SimpleData name="file">163.JPG</SimpleData>
+		<SimpleData name="picture">6E8A1FCF-539D-4BE0-85D9-D3D005E8274C</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.334597,48.210217</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 072</name>
+	<description>Picture https://hvdsomp.info/fellas/000072/164.JPG of Dude 072 taken on 2025-10-13T13:24:41 at 48.210164,16.334308</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2025/10/13 13:24:41</SimpleData>
+		<SimpleData name="file">164.JPG</SimpleData>
+		<SimpleData name="picture">3C2F37AA-F1A1-4B8E-8418-4B381D8F00F0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.334308,48.210164</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 073</name>
+	<description>Picture https://hvdsomp.info/fellas/000073/165.JPG of Dude 073 taken on 2025-10-13T13:47:38 at 48.220108,16.337789</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2025/10/13 13:47:38</SimpleData>
+		<SimpleData name="file">165.JPG</SimpleData>
+		<SimpleData name="picture">E91BFB7A-DB90-40DD-989F-3BD7C2D7B974</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.337789,48.220108</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 074</name>
+	<description>Picture https://hvdsomp.info/fellas/000074/166.JPG of Dude 074 taken on 2025-10-13T13:47:44 at 48.220114,16.337739</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2025/10/13 13:47:44</SimpleData>
+		<SimpleData name="file">166.JPG</SimpleData>
+		<SimpleData name="picture">B403C246-8740-4285-9809-3D1D1BA08B7F</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.337739,48.220114</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dude 075</name>
+	<description>Picture https://hvdsomp.info/fellas/000075/167.JPG of Dude 075 taken on 2025-10-17T14:14:58 at 48.19585,16.394472</description>
+	<ExtendedData><SchemaData schemaUrl="#metadata_all_reorg_geo">
+		<SimpleData name="timestamp">2025/10/17 14:14:58</SimpleData>
+		<SimpleData name="file">167.JPG</SimpleData>
+		<SimpleData name="picture">DC9748EF-ABEF-443D-B861-8EE5A3293169</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.394472,48.19585</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
